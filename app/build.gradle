@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.axpmediawidget'
+    namespace 'axp.denie46.mediawidget'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.axpmediawidget"
+        applicationId "axp.denie46.mediawidget"
         minSdk 33
         targetSdk 34
         versionCode 1

@@ -1,4 +1,4 @@
-package com.example.axpmediawidget
+package axp.denie46.mediawidget
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,7 +10,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.axpmediawidget.ui.theme.MediaWidgetTheme
+import axp.denie46.mediawidget.ui.theme.MediaWidgetTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

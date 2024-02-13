@@ -3,5 +3,5 @@
     android:description="@string/app_name"
     android:minHeight="30dip"
     android:minWidth="300dip"
-    android:resizeMode="horizontal"
+    android:resizeMode="none"
     android:widgetCategory="home_screen" />

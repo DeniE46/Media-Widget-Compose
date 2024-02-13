@@ -1,4 +1,4 @@
-package com.example.axpmediawidget.ui.theme
+package axp.denie46.mediawidget.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

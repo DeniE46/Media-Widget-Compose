@@ -1,4 +1,4 @@
-package com.example.axpmediawidget
+package axp.denie46.mediawidget
 
 import org.junit.Test
 
