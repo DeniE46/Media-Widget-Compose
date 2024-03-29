@@ -4,4 +4,6 @@
     android:minHeight="30dip"
     android:minWidth="300dip"
     android:resizeMode="none"
-    android:widgetCategory="home_screen" />
+    android:widgetCategory="home_screen"
+    android:initialLayout="@layout/media_widget_layout"
+    android:previewLayout="@layout/media_widget_layout"/>
